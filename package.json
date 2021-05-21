@@ -1,0 +1,28 @@
+{
+  "name": "awesome-du",
+  "version": "1.0.0",
+  "description": "record the learning process.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wildcn/awesome-du.git"
+  },
+  "keywords": [
+    "study",
+    "dulianqiang",
+    "awesome-dulianqiang"
+  ],
+  "author": "dulianqiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wildcn/awesome-du/issues"
+  },
+  "homepage": "https://github.com/wildcn/awesome-du#readme",
+  "dependencies": {
+    "microsecond": "^0.0.1",
+    "microseconds": "^0.2.0"
+  }
+}
